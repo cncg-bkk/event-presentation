@@ -1,5 +1,5 @@
 🌟 About the CNCG#3 Bangkok Meetup: #cTENcf Event
-Join the 3rd CNCF Bangkok Community MeetUp for an evening of deep technical exploration into the future of cloud-native platforms powered by AI and open-source innovation, as we celebrate #cTENcf the 10th Anniversary of the Cloud Native Computing Foundation (CNCF)! 🎉
+Join the 3rd CNCF Bangkok Community MeetUp for an evening of deep technical exploration into the future of cloud-native platforms powered by AI and open-source innovation, as we celebrate #cTENcf the 10th Anniversary of the Cloud Native Computing Foundation (CNCF)! 🎉 [Cloud Native Bangkok Community Group](https://community.cncf.io/events/details/cncf-cloud-native-bangkok-presents-ctencf-birthday-bash-bangkok-celebrating-a-decade-journey-of-cloud-native-galaxy/).
 
 
 
